@@ -11,7 +11,7 @@
     - [Vidéo de démonstration](#vidéo-de-démonstration)
 - [Budget](#budget)
 - [Bilan](#bilan)
-- [Pistes d'Amélioration](#pistes-d'Amélioration)
+- [Pistes d'Amélioration](#pistes-damélioration)
 
 ## Description
 
@@ -23,7 +23,7 @@ Notre projet vise à créer un pont de communication pour les personnes sourdes,
 - GHAZAOUI Badr
 - MAROUANE Kamal
 - RIMAOUI Nabila
-- ZERKTOUNI Ismail
+- ZARKTOUNI Ismail
 
 ## Problématique
 
